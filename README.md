@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on NTB-AI-LAB website<br>- 🌱 I’m currently learning python and ML<br>- 👯 I’m looking to collaborate on AI projects<br>- 💬 Ask me about computer hardware and tech industries<br>
+-🔭 I’m currently working on NTB-AI-LAB website<br>- 🌱 I’m currently learning python and ML<br>- 👯 I’m looking to collaborate on AI projects<br>- 💬 Ask me about computer hardware and tech industries<br>
 
 
 ## 🌐 Socials:
