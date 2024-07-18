@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 📖 I'm a bachelor's computer engineering student at Azad unversity North Tehran Branch
+- 📖 I'm a bachelor's computer engineering student at Azad university North Tehran Branch
 - 🔭 I’m currently working on NTB-AI-LAB website
 - 🌱 I’m currently learning python and ML
 - 👯 I’m looking to collaborate on AI projects
