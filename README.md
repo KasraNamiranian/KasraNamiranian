@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
- - 📖 I'm a bachelor's computer engineering student at Azad unversity North Tehran Branch<br>-🔭 I’m currently working on NTB-AI-LAB website<br>- 🌱 I’m currently learning python and ML<br>- 👯 I’m looking to collaborate on AI projects<br>- 💬 Ask me about computer hardware and tech industries<br>
+- 📖 I'm a bachelor's computer engineering student at Azad unversity North Tehran Branch<br>-🔭 I’m currently working on NTB-AI-LAB website<br>- 🌱 I’m currently learning python and ML<br>- 👯 I’m looking to collaborate on AI projects<br>- 💬 Ask me about computer hardware and tech industries<br>
 
 
 ## 🌐 Socials:
