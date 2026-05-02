@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ### 💫 About Me:
-- 📖 I'm a bachelor's computer engineering student at Azad Unversity North Tehran Branch
+- 📖 I'm a bachelor's computer engineering graduate form Azad Unversity North Tehran Branch
 - 🌱 I’m currently learning python and ML
 - 👯 I’m looking to collaborate on AI projects
-- 💬 Ask me about computer hardware and tech industries
+- 💬 Ask me about computers and tech industries
 
 
 ### 🌐 Socials:
